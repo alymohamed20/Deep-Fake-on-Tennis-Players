@@ -39,7 +39,7 @@ from sklearn.utils import resample
 #To get a subset of all images, for faster training during demonstration
 dataA = resample(dataA_all, 
                  replace=False,     
-                 n_samples=1067,    
+                 n_samples=178,    
                  random_state=42) 
 
 # load dataset B - Photos 
@@ -47,7 +47,7 @@ dataB_all = load_images(path + 'trainB/')
 print('Loaded dataB: ', dataB_all.shape)
 dataB = resample(dataB_all, 
                  replace=False,     
-                 n_samples=1334,    
+                 n_samples=1512,    
                  random_state=42) 
 
 # plot source images
