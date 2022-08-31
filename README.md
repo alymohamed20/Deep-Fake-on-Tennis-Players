@@ -13,4 +13,6 @@ There are two datasets used in our project one of them is downloaded from the Wi
 
 
 ## Project Methodolgy:
-The Cycle GAN is used in our methodolgy to solve the Unpaired image to image translation problem. The cycle consistency loss is implemented to keep the two generators acquired mappings from conflicting with one another. The generator network has 2x2 strides and 9 ResNet blocks for 256x256 pictures by using instance normalization. In the Discriminator they use a Patch GAN 70x70 which is used to determine the 70x70 picture patch is real or fake and it has less parameters than other features.
+The Cycle GAN is used in our methodolgy to solve the Unpaired image to image translation problem. The cycle consistency loss is implemented to keep the two generators acquired mappings from conflicting with one another. The generator network has 2x2 strides and 9 ResNet blocks for 256x256 pictures by using instance normalization. In the Discriminator we use a Patch GAN 70x70 which is used to determine the 70x70 picture patch is real or fake and it has less parameters than other features.
+
+![Screenshot 2022-08-31 191914](https://user-images.githubusercontent.com/73744812/187740282-b5d4f94b-4b74-41aa-a03a-78f8450238c2.jpg)
