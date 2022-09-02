@@ -11,9 +11,13 @@ There are two datasets used in our project one of them is downloaded from the Wi
   
 ## Libraries used in this Project:
 •	Python version 3.7.8
+
 •	TensorFlow version 2.6.0
+
 •	Keras version 2.6.0
+
 •	Matplotlib version 3.3.2
+
 •	NumPy version 1.19.2
 
 
