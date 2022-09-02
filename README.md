@@ -8,6 +8,14 @@ There are two datasets used in our project one of them is downloaded from the Wi
   ![image](https://user-images.githubusercontent.com/73744812/187739130-d462752f-407f-4ee1-b996-6268936e0231.png)
   ![image](https://user-images.githubusercontent.com/73744812/187739729-127b5e0a-d45d-426d-8d3d-f413ffb623b9.png)
   ![image](https://user-images.githubusercontent.com/73744812/187739753-462841ae-8b76-4b6c-8fb6-711df26a08f8.png)
+  
+## Libraries used in this Project:
+•	Python version 3.7.8
+•	TensorFlow version 2.6.0
+•	Keras version 2.6.0
+•	Matplotlib version 3.3.2
+•	NumPy version 1.19.2
+
 
 
 
